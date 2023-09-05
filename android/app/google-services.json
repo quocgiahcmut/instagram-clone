@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923250330581",
+    "project_id": "vue-firebase-gia",
+    "storage_bucket": "vue-firebase-gia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923250330581:android:d3defade0958f49b1e8b5c",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923250330581-t8hp2h0q5qbcahtcqufiqag8v71bltui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDEXvg6A7O-xJ4Gzk7r_YSHSEDT1wqZss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923250330581-t8hp2h0q5qbcahtcqufiqag8v71bltui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
